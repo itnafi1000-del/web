@@ -1,0 +1,5 @@
+{
+  "name": "VoteBD - 13th Parliament Survey",
+  "description": "A secure and interactive survey platform for the 13th National Parliament election in Bangladesh, featuring real-time voting, an admin dashboard with analytics, and AI-powered insights.",
+  "requestFramePermissions": []
+}
